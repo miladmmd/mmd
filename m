@@ -1,6 +1,6 @@
 <div class="container text-center mt-2">
     <h4>ویرایش اطلاعات شخصی</h4>
-    <form action="/action_page.php" class="mt-2">
+    <form action="/action_page.php" class="mt-3">
       <div class="row form-group">
   
         <input type="email" class="form-control col-sm-5" id="fname" placeholder="نام" name="fname">
